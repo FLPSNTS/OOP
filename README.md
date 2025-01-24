@@ -1,7 +1,7 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
+## FILIPPI IMPERATRIZ SANTOS
+### CS4B
 ### Your Tutor
 
 
@@ -9,11 +9,11 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
-2 Test               -- to do\
-3 Personal Details   -- to do\
-4 Diamonds           -- to do\
-5 Questions          -- to do
+1 Hello World        -- done
+2 Test               -- done
+3 Personal Details   -- done
+4 Diamonds           -- done
+5 Questions          -- done
 
 **2 Data and Expressions**\
 **committed by 19th February**\
